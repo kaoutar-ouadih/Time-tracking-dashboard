@@ -55,6 +55,7 @@ img{
     column-gap: 1.7em;
     margin-bottom: 2em;
     min-width: 760px;
+    max-width: 890px;
 }
 .content{
     grid-area: content;
